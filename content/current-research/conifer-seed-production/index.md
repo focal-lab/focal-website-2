@@ -3,7 +3,7 @@ title: Post-fire conifer seed production
 authors:
   - Nina Venuti
 
-summary: "Evaluating how weather patterns and fire injury affect the magnitude and timing of conifer seed production"
+summary: "Evaluating how weather, climate, and fire injury affect the magnitude and timing of conifer seed production"
 date: 2020-06-01
 show_date: false
 profile: true
