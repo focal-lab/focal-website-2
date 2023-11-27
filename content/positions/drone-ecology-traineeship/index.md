@@ -16,7 +16,7 @@ banner:
 
 ## Overview
 
-These positions are a part of the [Open Forest Observatory](http://www.openforestobservatory.org) project, hosted by the FOCAL Lab at UC Davis.
+These positions are a part of the [Open Forest Observatory](http://www.openforestobservatory.org) project, hosted by the FOCAL Lab at UC Davis. 
 
 This is a 9-month paid traineeship position for current UC Davis undergraduate students with an expected graduation date of fall 2023 or later. The position includes training and computer-based research experience during the school year (approx. 3-8 hours/week) and full-time fieldwork during summer 2023. The position begins in early spring quarter 2023, continues through summer 2023, and ends in late fall quarter 2023. There are two positions available.
 
