@@ -6,9 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  mode: system
+  color:
+  theme_day: tof
+  theme_night: tof
+  font: focfnt
   font_size: L
 
 # SEO

@@ -17,9 +17,6 @@ organizations:
   - name: Department of Plant Sciences
     url: "https://www.plantsciences.ucdavis.edu/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: <short bio here>
-
 interests:
   - List
   - Interests

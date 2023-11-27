@@ -17,10 +17,6 @@ organizations:
   - name: Department of Plant Sciences
     url: "https://www.plantsciences.ucdavis.edu/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: I'm interested in using remote sensing to monitor and assess plant
-  responses to their environment across spatial and temporal scales.
-
 interests:
   - Ecophysiology
   - Forest ecology

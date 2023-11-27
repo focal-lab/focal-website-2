@@ -23,10 +23,6 @@ organizations:
   - name: Political Ecology Lab
     url: https://politicalecologylab.ucdavis.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include disturbance ecology, forests, climate change,
-  and settler colonialism.
-
 interests:
   - Disturbance ecology
   - Forests

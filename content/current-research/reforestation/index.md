@@ -1,9 +1,11 @@
 ---
 title: Understanding reforestation outcomes
+authors:
+  - admin
 summary: "Collecting and analyzing field data to understand the drivers of post-fire reforestation outcomes"
 date: 2017-01-01
 show_date: false
-profile: false
+profile: true
 image:
   focal_point: ''
   preview_only: false

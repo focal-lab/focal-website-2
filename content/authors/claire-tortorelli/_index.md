@@ -17,10 +17,6 @@ organizations:
   - name: Department of Plant Sciences
     url: "https://www.plantsciences.ucdavis.edu/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: I'm interested in how plants and disturbances interact at community and
-  landscape scales.
-
 interests:
   - Plants
   - Fire

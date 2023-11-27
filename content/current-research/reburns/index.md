@@ -1,9 +1,11 @@
 ---
 title: Fuel accumulation and reburn severity
+authors:
+  - Claire Tortorelli
 summary: "Analyzing statewide fire severity data to model fuel accumulation rates and predict fire seveirty in reburns"
 date: 2019-06-01
 show_date: false
-profile: false
+profile: true
 image:
   focal_point: ''
   preview_only: false

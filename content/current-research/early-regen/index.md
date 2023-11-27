@@ -1,13 +1,16 @@
 ---
 title: Early post-fire regeneration
+authors:
+  - Nina Venuti
+  - Mackenzie Field
+  - Kees Hood
 summary: "Using drone and field data to understand how well post-fire regeneration is explained by very early (1-2 years post-fire) canopy conditions"
 date: 2021-01-01
 show_date: false
-profile: false
+profile: true
 image:
   focal_point: ''
   preview_only: false
-
 
 
 ---

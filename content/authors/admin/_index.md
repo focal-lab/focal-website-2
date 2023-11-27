@@ -10,7 +10,7 @@ last_name: Young
 superuser: true
 
 # Role/position
-role: Assistant Professional Researcher
+role: FOCAL PI
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: "https://openforestobservatory.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include disturbance ecology, drone-enabled research, and forest management.
+# bio: My research interests include disturbance ecology, drone-enabled research, and forest management.
 
 interests:
   - Forest ecology

@@ -17,9 +17,6 @@ organizations:
   - name: <name goes here>
     url: <url goes here>
 
-# Short bio (displayed in user profile at end of posts)
-bio:
-
 interests:
 
 education:

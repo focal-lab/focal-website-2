@@ -34,7 +34,7 @@ banner:
 <!---- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
 <!---- - [Forest Ecology Field Crew Member (UC student)](/positions/field-crew-member/) --->
-- We are often looking for UC Davis undergrads to join in our research! [Contact us](/#contact)!
+- We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background.
 
 &nbsp;
 &nbsp;
