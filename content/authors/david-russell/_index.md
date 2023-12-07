@@ -18,18 +18,19 @@ organizations:
     url: "https://www.plantsciences.ucdavis.edu/"
 
 interests:
-  - List
-  - Interests
-  - Here
+  - Computer vision
+  - Remote sensing
+  - Drone path planning
+  - Open-source software
 
 education:
   courses:
     - course: MS in Robotics
       institution: Carnegie Mellon University
       year: 2023
-    - course: <undergrad degree>
-      institution: <institution>
-      year: 2222
+    - course: BS in Computer Science
+      institution: Clarkson University
+      year: 2020
 
 
 # Social/Academic Networking
@@ -39,19 +40,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:email@ucdavis.edu
+    link: mailto:djrussell@ucdavis.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/username
+    link: https://twitter.com/david_russell_
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user_id&hl=en
+    link: https://scholar.google.com/citations?user=0U6_f6kAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/username
+    link: https://github.com/russelldj
   - display:
       header: false
-    link: https://website.url
+    link: https://russelldj.github.io/
     icon_pack: fas
     icon: globe
 
@@ -73,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Bio goes here.
+I am interested in applying concepts from computer vision, robotics, data science, and machine learning to produce data that informs ecology research. My work supports internal projects in the FOCAL Lab as well as the [Open Forest Observatory](https://openforestobservatory.org/). My current focus is using both geometric and learning-based computer vision to process large sets of drone imagery. I am also interested in coupling observations at multiple scales, such as field, drone, and satellite, to achieve predictions that are both accurate and scalable. I firmly believe that open source software is critical for reproducable science and I enjoy building software toolkits to standarize research methods.
