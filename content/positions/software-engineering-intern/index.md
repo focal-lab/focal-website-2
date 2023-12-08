@@ -1,20 +1,16 @@
 ---
 title: "Open-Source Software Engineering Intern (UC Undergraduate Student)"
-summary:
+summary: 
 
-date: 2023-12-07
+date: 2022-12-04
 show_date: false
 profile: false
 image:
   focal_point: ''
   preview_only: true
 
-banner:
-  image: "eiler.JPG"
-
 ---
 
-<br>
 
 # Position summary
 The FOCAL Lab at UC Davis is recruiting an undergraduate Open-Source Software Engineering Intern to contribute to the lab’s work at the intersection of forest ecology, forest mapping, and forest management. The intern will learn about and contribute to the development of open source tools for processing drone imagery and other types of data to answer ecological questions. Specifically, the intern will be responsible for improving the code quality of several existing open source repositories such as [automate-metashape](https://github.com/open-forest-observatory/automate-metashape), for automating a 3D model creation workflow from drone images, and the [multiview-mapping-toolkit](https://github.com/open-forest-observatory/multiview-mapping-toolkit), for generating predictions about the landscape with 3D models and the raw images used to create them. 
