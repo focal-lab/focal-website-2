@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Software Engineering Intern (UC Undergraduate Student)"
+title: "Open-Source Software Engineering Intern (UC Student)"
 summary: 
 
 date: 2022-12-04
@@ -15,13 +15,13 @@ image:
 # Position summary
 The FOCAL Lab at UC Davis is recruiting an undergraduate Open-Source Software Engineering Intern to contribute to the lab’s work at the intersection of forest ecology, forest mapping, and forest management. The intern will learn about and contribute to the development of open source tools for processing drone imagery and other types of data to answer ecological questions. Specifically, the intern will be responsible for improving the code quality of several existing open source repositories such as [automate-metashape](https://github.com/open-forest-observatory/automate-metashape), for automating a 3D model creation workflow from drone images, and the [multiview-mapping-toolkit](https://github.com/open-forest-observatory/multiview-mapping-toolkit), for generating predictions about the landscape with 3D models and the raw images used to create them. 
 
-Strong background in software engineering is required. A specific focus on open source development and developing easy-to-use tools is desirable. An understanding of the technical concepts underlying domain-specific software may be helpful, but more important is an ability to learn and interpret the documentation for these libraries. Members of communities traditionally underrepresented in software engineering or ecology are strongly encouraged to apply. 
+A strong background in software engineering is required. A specific focus on open source development and creating easy-to-use tools is desirable. An understanding of the technical concepts underlying domain-specific software may be helpful, but more important is an ability to learn and interpret the documentation for these libraries. Members of communities traditionally underrepresented in software engineering or ecology are strongly encouraged to apply. 
 
 # Hours, dates, and work location
 The preferred start date is in January 2024. The position will extend through at least May 2024, with an option for extension into the summer and beyond based on funding and performance. There will be 5-10 hours of work per week, as dictated by the intern’s availability. The position may be remote or in person (office on the UC Davis campus) depending on preference.
 
 # Compensation
-Approximately $18.50.
+Approximately $18.50 / hour.
 
 # Primary duties
 * Improve the quality of existing codebases by reorganizing, modularizing, documenting, and streamlining.

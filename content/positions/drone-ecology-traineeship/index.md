@@ -5,6 +5,7 @@ summary:
 date: 2022-06-01
 show_date: false
 profile: false
+
 image:
   focal_point: ''
   preview_only: true
@@ -12,6 +13,7 @@ image:
 banner:
   image: "tahoe2.jpg"
 
+draft: true
 ---
 
 ## Overview
