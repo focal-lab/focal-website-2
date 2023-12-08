@@ -2,8 +2,6 @@
 title: "Forest Ecology Drone Pilot"
 summary:
 
-draft: true
-
 date: 2022-06-01
 show_date: false
 profile: false
@@ -14,6 +12,7 @@ image:
 banner:
   image: "tahoe2.jpg"
 
+draft: true
 ---
 
 ## **Employer**
