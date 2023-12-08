@@ -9,8 +9,6 @@ image:
   focal_point: ''
   preview_only: true
   # caption: Automatically detected treetops, with point size indicating tree height, overlaid on drone-derived orthoimagery from the Tahoe National Forest
-_build:
-  list: never
 
 banner:
   image: "crew-drone-banner-2.JPG"
@@ -35,8 +33,8 @@ banner:
 
 <!---- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
-<!---- - [Forest Ecology Field Crew Member (UC student)](/positions/field-crew-member/) --->
-We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background.
+- [Open-Source Software Engineering Intern (UC Student)](/positions/open-source-software-engineering-intern/)
+- We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background.
 
 &nbsp;
 &nbsp;

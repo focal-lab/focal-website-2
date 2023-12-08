@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Software Engineering Intern (UC Undergraduate Student)"
+title: "Open-Source Software Engineering Intern (UC Student)"
 summary:
 
 date: 2023-12-07
@@ -10,7 +10,7 @@ image:
   preview_only: true
 
 banner:
-  image: "eiler.JPG"
+  image: "crew-drone-banner-2.JPG"
 
 ---
 
