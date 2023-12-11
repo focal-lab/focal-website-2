@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Openings
-    url: positions
+    url: position-listing
     weight: 40
   - name: Contact
     url: "#contact"
