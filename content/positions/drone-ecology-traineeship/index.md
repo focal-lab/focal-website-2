@@ -40,7 +40,7 @@ Fall 2024 (both trainees), summer 2024 (one trainee), spring 2024 (both trainees
 
 Both trainees will be expected to attend a paid weekend field training at Blodgett Forest Research Station the weekend of **May 25-26**. This training will include hands-on drone piloting, mission planning, and data management experience, as well as basic field skills including navigation and camping.
 
-The trainee participating in full-time summer fieldwork will start their first field hitch on June 19 and will work at least 4 hitches.
+The trainee participating in full-time summer fieldwork will start their first field hitch on June 19 and will work at least 4, likely more, hitches (see *Summer fieldwork schedule*, below).
 
 ## **Location**
 
