@@ -1,5 +1,5 @@
 ---
-title: "Drone-based ecology traineeship (1-2 positions)"
+title: "Drone-based ecology traineeship (2 positions)"
 summary:
 
 date: 2022-06-01
