@@ -32,7 +32,7 @@ banner:
 
 ## Undergrad student positions
 
-<!---- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
+- [Drone-based ecology traineeship](/positions/drone-ecology-traineeship)
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
 <!---- - [Forest Ecology Field Crew Member (UC student)](/positions/field-crew-member/) --->
 <!-- - [Open-Source Software Engineering Intern (UC Student)](/positions/software-engineering-intern/) -->
