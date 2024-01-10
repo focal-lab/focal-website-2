@@ -84,7 +84,7 @@ For the trainee who will perform summer fieldwork, outdoor experience is require
 For both trainees:
 
 - UCD undergraduate student in ecology, natural resource management, or related field
-- Coursework or practical experience in working with quantitative geospatial data, such as a GIS class
+- Coursework or practical experience working with quantitative data, such as a stats class
 - Strong quantitative and organizational skills
 
 For the trainee performing summer fieldwork:
@@ -96,6 +96,8 @@ For the trainee performing summer fieldwork:
 
 ## Desired qualifications
 
+- Experience working with geospatial data (e.g., GIS)
+- Experience with scripted analysis in R and/or Python
 - Skilled navigating on- and off-trail using topographic maps, compass, and handheld GPS units
 - Excellent organizational skills for planning, data management, and equipment management
 
