@@ -27,8 +27,8 @@ interests:
 education:
   courses:
     - course: BS in Computer Science and Engineering
-    - institution: University of California Davis
-    - year: 2024
+      institution: University of California Davis
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
