@@ -1,14 +1,21 @@
 ---
 title: Summer Field Technician (1-2 positions)
+
 summary:
+
 date: 2024-1-24
+
 show_date: false
+
 profile: false
+
 image:
   focal_point: ‘’
   preview_only: true
+
 banner:
-  image: “eiler.JPG”
+  image: tahoe2.JPG
+
 draft: false
 ---
 
