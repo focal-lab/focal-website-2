@@ -1,5 +1,5 @@
 ---
-title: “Summer Field Technician (1-2 positions)”
+title: Summer Field Technician (1-2 positions)
 summary:
 date: 2024-1-24
 show_date: false
