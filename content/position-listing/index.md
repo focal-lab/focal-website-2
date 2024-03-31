@@ -27,14 +27,15 @@ banner:
 <!----  - [Forest Ecology Field Crew Leader (non-UC student)](/positions/field-crew-leader/) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
 <!---- - [Forest Ecology Field Crew Member (UC student)](/positions/field-crew-member/) --->
+- [Forest Ecology Drone Pilot Assistant](/positions/drone-assistant/)
 
 <!--- ## Grad students --->
 
 ## Undergrad student positions
 
-- [Drone-based ecology traineeship](/positions/drone-ecology-traineeship)
+<!-- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
-- [Summer field technician (UC student)](/positions/field-crew-member/)
+<!-- - [Summer field technician (UC student)](/positions/field-crew-member/) --->
 <!-- - [Open-Source Software Engineering Intern (UC Student)](/positions/software-engineering-intern/) -->
 - We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background.
 
