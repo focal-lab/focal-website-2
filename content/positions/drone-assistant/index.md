@@ -28,6 +28,7 @@ $19-22/hr (pending HR review of candidate)
 The Drone Pilot Assistant will join two field hitches:
 - May 22 or 23 through May 29 or 30
 - June 5-12
+
 The full-time employment period (two hitches of 8 days on followed by 6 days off; total of 160 hours) is May 22 through June 18, 2024. There will also be some required safety training work (approx. 5-10 hours) to complete before the field season begins. Some of the training is asynchronous, and a small amount is synchronous, at a mutually agreed time in May.
 
 ## **Location**
