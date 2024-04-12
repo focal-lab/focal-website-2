@@ -85,6 +85,6 @@ The Pilot and Assistant will be expected to share in driving a UC Davis fleet ve
 
 ## **To apply**
 
-Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for two references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/TA3Azou5BhwtqmPn9). The form includes more detailed instructions. Review of applications will begin April 10, 2024. Apply by this date for full consideration. Applications submitted after this date may be considered depending on availability. For questions about the position, contact Derek Young, djyoung@ucdavis.edu.
+Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for two references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/TA3Azou5BhwtqmPn9). The form includes more detailed instructions. Review of applications will begin April 22, 2024. Apply by this date for full consideration. Applications submitted after this date may be considered depending on availability. For questions about the position, contact Derek Young, djyoung@ucdavis.edu.
 
 <br>
