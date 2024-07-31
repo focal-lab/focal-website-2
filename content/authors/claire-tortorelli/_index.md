@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 I use field, remote sensing, and modeling methods to investigate how vegetation responds to and influences disturbances, including drought and wildfire, at community and landscape-scales. I aim to develop co-produced, actionable science to inform management actions and promote balanced and resilient ecosystems. During my PhD at Oregon State University, I worked with managers to better understand the drivers and impacts of a recently introduced invasive annual grass, *Ventenata dubia*, in Oregon forests and rangelands. Currently, my research is focused on predicting the drivers of fire severity in areas that have experienced multiple fires and understanding long-term forest recovery following severe wildfire.

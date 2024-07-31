@@ -10,12 +10,12 @@ last_name: Gujral
 superuser: false
 
 # Role/position
-role: Lab Affiliate
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: <name goes here>
-    url: <url goes here>
+  - name: {{name goes here}}
+    url: {{url goes here}}
 
 interests:
 

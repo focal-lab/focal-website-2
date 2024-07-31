@@ -76,7 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 My research is largely focused on advancing the applications of remote sensing for monitoring and assessing physiological responses of plants to their environment. I employ a number of ground-based techniques to evaluate plant traits (pigments) and functions (photosynthesis) to understand the underlying mechanisms influencing remotely sensed spectra and its applications. My experience spans across boreal and temperate forests and assessing phenology, and in agricultural systems assessing genotype-specific drought response. My work with the FOCAL Lab uses satellite-based remote sensing to assess fire damage severity and refugia.

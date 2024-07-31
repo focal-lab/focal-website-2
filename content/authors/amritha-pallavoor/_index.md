@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Steven dePaschalis
+title: Amritha Pallavoor
 
 # Full Name (for SEO)
-first_name: Steven
-last_name: dePaschalis
+first_name: Amritha
+last_name: Pallavoor
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Drone Ecology Trainee
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -43,5 +43,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Researchers
 ---

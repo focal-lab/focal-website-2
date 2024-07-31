@@ -10,7 +10,7 @@ last_name: Saberi
 superuser: false
 
 # Role/position
-role: Lab Affiliate
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
