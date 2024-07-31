@@ -14,8 +14,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: {{name goes here}}
-    url: {{url goes here}}
+  - name: Department of Plant Sciences
+    url: "https://www.plantsciences.ucdavis.edu/"
 
 interests:
 
