@@ -10,7 +10,7 @@ last_name: Mattsson
 superuser: false
 
 # Role/position
-role: Lab Affiliate
+role: Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
