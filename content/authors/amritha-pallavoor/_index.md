@@ -10,7 +10,7 @@ last_name: Pallavoor
 superuser: false
 
 # Role/position
-role: Research Technician
+role: Vegetation Data Specialist
 
 # Organizations/Affiliations
 organizations:
