@@ -9,7 +9,7 @@ image:
   focal_point: ''
   preview_only: true
 
-draft: true
+draft: false
 ---
 
 
