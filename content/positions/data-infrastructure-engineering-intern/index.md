@@ -19,7 +19,7 @@ The FOCAL Lab at UC Davis is recruiting undergraduate Cloud-Based Data Infrastru
 A strong background in software engineering is required. A specific focus on open source development and data infrastructure is desired. An understanding of the technical concepts underlying cloud-based workflow orchestration and databases may be helpful, but more important is an ability to learn and interpret the documentation for these tools. Members of communities traditionally underrepresented in software engineering or ecology are strongly encouraged to apply.
 
 ## Hours, dates, and work location
-The preferred start date is late October 2024. The position will extend through at least May 2025, with an option for extension into the summer and beyond based on funding and performance. There will be 10-20 hours of work per week depending on the intern's preference. The position may be remote or in person (office on the UC Davis campus) depending on preference.
+The preferred start date is late October 2024. The position will extend through at least May 2025, with an option for extension into the summer and beyond based on funding and performance. There will be 5-15 hours of work per week depending on the intern's preference. The position may be remote or in person (office on the UC Davis campus) depending on preference.
 
 ## Compensation
 Approximately $18.50/hour.
