@@ -53,6 +53,7 @@ Approximately $18.50/hour.
 * Experience interfacing with non-computing domain specialists (e.g. ecologists)
 
 ## To apply
-* Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you). Combine this information into a single PDF and email it to David Russell, [djrussell@ucdavis.edu](mailto:djrussell@ucdavis.edu), with the the subject line "Cloud-Based Data Infrastructure Engineering Intern Application".
+* Please submit a cover letter (including your interest in the position, relevant experience, and availability dates) and a CV/resume. Combine this information into a single PDF and email it to David Russell, [djrussell@ucdavis.edu](mailto:djrussell@ucdavis.edu), with the the subject line "Cloud-Based Data Infrastructure Engineering Intern Application".
 * The position will remain open until filled. For full consideration, apply by October 14, 2024.
 * Applicants who apply by October 14 will be notified whether they have been selected for an interview by October 22.
+* References are not required in the initial application but we may request them after the interviews.
