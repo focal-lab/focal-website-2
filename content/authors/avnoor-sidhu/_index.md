@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: BS in Computer Science 
+    - course: BS in Computer Science
       institution: University of California Davis
       year: 2024
 
@@ -50,5 +50,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
