@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Avnoor Sidhu
+title: Divya Vaddavalli
 
 # Full Name (for SEO)
-first_name: Avnoor
-last_name: Sidhu
+first_name: Divya
+last_name: Vaddavalli
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junior Software Engineer
+role: Software Engineer Intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,15 @@ organizations:
     url: "https://cs.ucdavis.edu/"
 
 interests:
-  - Mobile Development
   - Full Stack Development
-  - Open-source
-  - Computer Vision
+  - Machine Learning
+  - Generative AI
 
 education:
   courses:
     - course: BS in Computer Science
       institution: University of California Davis
-      year: 2024
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,5 +49,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Undergrads
 ---
