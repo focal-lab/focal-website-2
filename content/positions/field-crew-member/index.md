@@ -1,5 +1,5 @@
 ---
-title: "Summer Forest Ecology Field Crew Members (2-3 positions)"
+title: "Summer Forest Ecology Field Crew Member (2-3 positions)"
 summary:
 
 date:
