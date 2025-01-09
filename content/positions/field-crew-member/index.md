@@ -29,7 +29,7 @@ June 18 to September 17 2025 (minimum), with potential for extension to assist w
 
  ## Compensation
 
-Approximately $18.50/hour.
+Approximately $19/hour.
 
 ## Eligibility
 
