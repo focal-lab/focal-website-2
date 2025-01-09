@@ -45,19 +45,18 @@ Davis, CA (UC Davis)
 
 ## Job purpose
 
-Serve on a three- or four-member field crew in performing plot surveys to collect forest vegetation
-data from burned and unburned forest sites. Most plot surveys will consist of revisits of plots
-established and surveyed in previous years. The data will support research aiming to improve predictions
-of post-fire forest recovery. The work will also include surveys of overstory stand structure in
-burned and unburned forest to serve as validation data for efforts to use drone and satellite
-imagery to map forest structure.
+Serve on a three- or four-member field crew supporting a study aiming to better understand post-fire
+recovery processes in the forests of northern California. Collected data will also be used to
+validate the use of drone imagery for forest mapping. The fieldwork will occur across multiple
+recently burned forest areas, as well as unburned forests, and will provide an opportunity to
+experience a diversity of California mountain landscapes and vegetation conditions. The work
+involves surveying regenerating vegetation (e.g., tree seedlings) and overstory canopy condition.
+Most plot surveys will consist of revisits of plots established and surveyed in previous years.
 
 The fieldwork will occur primarily across the footprints of fires that burned in 2020 and 2021 in
 northern California (Sierra, Eldorado, Plumas, and Lassen National Forests), with potential for
- additional work elsewhere in the Southern Cascades as well as in the North
-Coast Range (Mendocino and Shasta-Trinity National Forests). It will provide an opportunity to observe a
-diversity of California mountain landscapes and vegetation.
-
+additional work elsewhere in the Southern Cascades as well as in the North
+Coast Range (Mendocino and Shasta-Trinity National Forests).
 ## Job description
 
 The crew member is responsible for conducting field sampling. The crew member will be responsible for the following:
@@ -124,5 +123,5 @@ Review of applications will begin on January 24, 2025. Apply by this date for fu
 
 Please submit a cover letter (including your interest in the position and relevant experience), CV/resume, and contact information for 2-3 references (including name,
 organization, email, and relationship to you) using [this Google
-form](https://forms.gle/NyUFPgEbECxtMnx97). The form includes more detailed instructions. For
+form](https://forms.gle/NyUFPgEbECxtMnx97). For
 questions about the position, contact Derek Young, djyoung@udavis.edu.
