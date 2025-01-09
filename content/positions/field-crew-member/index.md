@@ -25,7 +25,7 @@ draft: false
 
 ## Employment period
 
-June 18 to September 17 2025 (minimum), with potential for extension for additional fieldwork and/or to assist with data processing
+June 18 to September 17 2025 (minimum), with potential for extension to assist with data management and processing
 
  ## Compensation
 
