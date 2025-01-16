@@ -117,7 +117,7 @@ handwriting and careful attention to detail.
 
 ## Application due date
 
-Review of applications will begin on January 24, 2025. Apply by this date for full consideration.
+Review of applications will begin on January 27, 2025. Apply by this date for full consideration.
 
 ## To apply
 
