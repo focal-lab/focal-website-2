@@ -18,8 +18,6 @@ organizations:
     url: "https://roncalilab.engineering.ucdavis.edu/"
   - name: Computer Science Graduate Group
     url: "https://cs.ucdavis.edu/graduate/graduate-group"
-  - name: Roncali Lab
-    url: "https://roncalilab.engineering.ucdavis.edu/"
 
 interests:
   - Machine Learning
