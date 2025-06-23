@@ -10,7 +10,7 @@ last_name: Schneider
 superuser: false
 
 # Role/position
-role: Robotics and Computer Vision Engineer
+role: Computer Vision Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: "https://www.plantsciences.ucdavis.edu/"
 
 interests:
-  - Computer vision / perception / optics
+  - Computer vision, perception, optics
   - Environmental robotics
   - Outdoor imaging and reconstruction
 
@@ -48,12 +48,6 @@ social:
     link: https://franzericschneider.github.io/
     icon_pack: fas
     icon: globe
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://franzericschneider.github.io/pages/images/resume.png
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
