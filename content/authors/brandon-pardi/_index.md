@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Interns
 ---
 
 I am a Ph.D. student at the University of California, Davis, and a CITRIS intern at the FOCAL Lab for the summer of 2025. I have historically applied much of my machine learning and software development abilities to open source projects in the realm of biomedical engineering and pedagogical research. I have always been passionate about climate change and forest perservation, and this lab has presented me with a great opportunity to apply my expertise in data reduction methods and hyperparameter optimization to meaningful work that I am excited to be a part of.
