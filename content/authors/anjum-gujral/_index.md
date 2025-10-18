@@ -14,8 +14,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Plant Sciences
-    url: "https://www.plantsciences.ucdavis.edu/"
+  - name: Population Biology Graduate Group"
 
 interests:
 

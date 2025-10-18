@@ -14,8 +14,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: <name goes here>
-    url: <url goes here>
+  - name: Ecology Graduate Group
 
 interests:
 
