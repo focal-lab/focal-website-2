@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 I am interested in applying concepts from computer vision, robotics, data science, and machine learning to make useful tools for ecological research. I am supporting internal projects in the FOCAL Lab as well as the [Open Forest Observatory](https://openforestobservatory.org/) for a 3-month work project. OFO is building on a strong open-source set of tools, and I am excited to both learn more about the problems OFO faces and make progress on the projects they find most critical!
