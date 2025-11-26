@@ -1,5 +1,5 @@
 ---
-title: "Position extension: Data scientist"
+title: "Position extension: Data Scientist"
 summary:
 
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Position extension: Field logistics & data manager"
+title: "Position extension: Field Logistics & Data Manager"
 summary:
 
 draft: false

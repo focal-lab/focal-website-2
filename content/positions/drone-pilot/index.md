@@ -1,5 +1,5 @@
 ---
-title: "Forest Ecology Field Crew Member"
+title: "Forest Ecology Drone Pilot & Field Crew Leader"
 summary:
 
 draft: false
