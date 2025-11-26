@@ -7,7 +7,6 @@ draft: false
 date: 2022-06-01
 show_date: false
 profile: false
-draft: true
 image:
   focal_point: ''
   preview_only: true
