@@ -45,12 +45,11 @@ California forests. The work will support two projects:
   reconstructions with under-canopy 360-degree (GoPro) imagery to better capture understory
   trees, shrubs, and logs. This project involves drone and ground imagery collection and
   ground-based vegetation inventory to support development and validation of automated inventory methods.
-1. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery to train and
-  validate a computer vision model for mapping trees establishing following decades-old fires across
+1. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery to develop a computer vision model for mapping trees establishing following decades-old fires across
   southern, central, and northern California. This project involves drone flights only, no
   ground-based imagery or manual inventory.
 
-This position may be combined with the [Extension: Field Logistics & Data Manager](/positions/extension-field-logistics-and-data-manager) position and/or [Extension: Data Scientist](/positions/data-scientist) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
+This position may be combined with the [Extension: Field Logistics & Data Manager](/positions/extension-field-logistics-and-data-manager) position and/or [Extension: Data Scientist](/positions/extension-data-scientist) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
 
 ## Job description
 
@@ -78,7 +77,7 @@ This position may be combined with the [Extension: Field Logistics & Data Manage
 
 The 2-3 person ground-based crew will support project #1 (summarized above), which will constitute approximately
 the 60% of the field season. During the remaining time (project #2), a field assistant will be present for
-the majority of field days to support the crew leader in safety and equipment management.
+the majority of field days to support the Pilot in safety and equipment management.
 
 Due to the remoteness of the field sites, the incumbent should expect to spend up to 7 consecutive
 days in the field (see *Work schedule*, below) with frequent relocations of camp (included in work
@@ -92,7 +91,7 @@ The duty station will be Davis, CA (UC Davis). Field hitches will begin and end 
 
 The default work schedule will generally consist of 8 10-hour days, followed by 6 days off (80 work hours every 2 weeks), beginning and ending on Wednesdays. The 8-day periods will likely include 1-3 days of office work, usually the last of the 8 days, to document the previous field period and prepare for the next. Some but not all of this office work may be performed remotely. Travel between Davis and the field sites, and between field sites, is included in work hours. Active drone flying periods will be unlikely to exceed 2 hours per day, with the remaining hours spent performing ground data collection, scouting the next day’s flight location, moving camp (if necessary), and charging/maintaining equipment. The 1-3 office days (10-30 hours) may be spread over more shorter work days if practical and/or preferred. The incumbent is expected to arrange and coordinate schedules with crew members and the position supervisor to achieve the greatest efficiency.
 
-The work may occasionally require some logistical coordination outside of the normal 10-day field hitches (e.g., to review/prepare field safety plans, print datasheets, plan flight missions and site access, and coordinate crew member schedules). When this work occurs outside the normal schedule of 80 hours every 2 weeks, it will generate overtime at 1.5x the hourly rate. It will not exceed 10 hours of extra time every 2 weeks and will generally be less than 5 hours.
+The work may occasionally require some logistical coordination outside of the normal 8-day workweeks (e.g., to review/prepare field safety plans, print datasheets, plan flight missions and site access, and coordinate crew member schedules). When this work occurs outside the normal schedule of 80 hours every 2 weeks, it will generate overtime at 1.5x the hourly rate. It will not exceed 10 hours of extra time every 2 weeks and will generally be less than 5 hours.
 
 During fire season, smoke and fire hazards may necessitate rapid adjustments to work location or schedule (e.g., shifting departure and/or return dates to avoid hazardous fire weather conditions). In the event of extended periods of fire or smoke hazards, the position supervisor will work to identify alternative work locations that avoid hazards, but during peak fire season, continuous full-time employment cannot be guaranteed.
 
