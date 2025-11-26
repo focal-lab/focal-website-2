@@ -19,7 +19,7 @@ banner:
 
 ## Summary
 
-For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position (LINKSSSSSSS). The position will provide field logistics support prior to and during the field season by coordinating site access permissions and schedules with site managers/landowners, preparing field gear and datasheets, and related tasks. The position will also assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data) and organization and quality-checking of incoming field data during the field season. The position may include some limited pre-season field site reconnaissance.
+For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](../extension-data-scientist/drone-pilot) position or the [Field Crew Member](../extension-data-scientist/field-crew-member) position (LINKSSSSSSS). The position will provide field logistics support prior to and during the field season by coordinating site access permissions and schedules with site managers/landowners, preparing field gear and datasheets, and related tasks. The position will also assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data) and organization and quality-checking of incoming field data during the field season. The position may include some limited pre-season field site reconnaissance.
 
 ## Compensation
 
@@ -27,7 +27,7 @@ Approximately $26-29/hour, depending on qualifications and UC Davis HR assessmen
 
 ## Employment period
 
-This position would extend the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
+This position would extend the [Drone Pilot & Field Crew Leader](../extension-data-scientist/drone-pilot) position or the [Field Crew Member](../extension-data-scientist/field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
 
 ## Location
 
@@ -42,7 +42,7 @@ This position will support two projects:
   reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory
   trees, shrubs, and logs. This project involves drone and ground imagery collection and
   ground-based vegetation inventory.
-1. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery to train and
+1. A study of forest recovery 10-40 years post-wildfire that will use drone imagery to train and
   validate a computer vision model for mapping trees establishing following decades-old fires across
   southern, central, and northern California. This project involves drone flights only, no
   ground-based imagery or manual inventory.

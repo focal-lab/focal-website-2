@@ -46,10 +46,12 @@ California forests. The work will support two projects:
   reconstructions with under-canopy 360-degree (GoPro) imagery to better capture understory
   trees, shrubs, and logs. This project involves drone and ground imagery collection and
   ground-based vegetation inventory to support development and validation of automated inventory methods.
-1. A study of forest recovery 10-40 years post-wildfire that will use drone imagery to train and
+1. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery to train and
   validate a computer vision model for mapping trees establishing following decades-old fires across
   southern, central, and northern California. This project involves drone flights only, no
   ground-based imagery or manual inventory.
+
+This position may be combined with the [Extension: Field Logistics & Data Manager](extension-field-logistics-and-data-manager) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
 
 ## Job description
 
