@@ -20,9 +20,9 @@ banner:
 
 We are hiring for multiple field positions, with the potential for extension into roles that include data science and/or field logistics management. These positions will primarily support two new projects:
 
-1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project ("Open Forest Observatory 2.0") that is developing methods for automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory trees, shrubs, and logs. This project involves development of computer vision models, 3D reconstruction methods, and data integration workflows.
+1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project that is automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory trees, shrubs, and logs.
 
-2. A study of forest recovery 10-40 years post-wildfire ("Delayed Forest Reestablishment") that will use drone and NAIP imagery to train and validate a computer vision model for mapping trees establishing following decades-old fires across southern, central, and northern California. This project involves computer vision model development, multi-source imagery co-registration, and accuracy assessment workflows.
+2. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery, combined with computer vision models, to map post-fire forest recovery across southern, central, and northern California.
 
 ### Forest Ecology Drone Pilot & Field Crew Leader
 
