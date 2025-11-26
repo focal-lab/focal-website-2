@@ -26,7 +26,7 @@ Approximately $27-30/hour or $53,100-69,073/year depending on degree, qualificat
 
 ## Employment period
 
-This position would extend the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position by 5 or more months, potentially constituting a full 1-year position, with potential for further extension depending on funding and performance. Part-time work (commitment of 50-100% time) is possible. Start date between February and April 2026.
+This position would extend the [Drone Pilot & Field Crew Leader](positions/drone-pilot) position or the [Field Crew Member](positions/field-crew-member) position by 5 or more months, potentially constituting a full 1-year position, with potential for further extension depending on funding and performance. Part-time work (commitment of 50-100% time) is possible. Start date between February and April 2026.
 
 ## Location
 

@@ -26,7 +26,7 @@ Approximately $26-29/hour, depending on qualifications and UC Davis HR assessmen
 
 ## Employment period
 
-This position would extend the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
+This position would extend the [Drone Pilot & Field Crew Leader](positions/drone-pilot) position or the [Field Crew Member](positions/field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
 
 ## Location
 
