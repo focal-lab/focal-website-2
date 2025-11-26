@@ -56,7 +56,7 @@ hours) during each field hitch.
 
 ## Work location & camping
 
-The duty station will be Davis, CA (UC Davis). Field hitches will begin and end at UC Davis. While conducting fieldwork, the crew will primarily be car camping near the project study sites on National Forests. Camping will usually be “dispersed camping” (undeveloped areas with no facilities that are adjacent to remote roads) but will occasionally be in campsites (with campsite fees paid by employer). Camping location will change frequently as the crew moves to different study areas.
+The duty station is Davis, CA (UC Davis). Field hitches will begin and end at UC Davis. While conducting fieldwork, the crew will primarily be car camping near the project study sites on National Forests. Camping will usually be “dispersed camping” (undeveloped areas with no facilities that are adjacent to remote roads) but will occasionally be in campsites (with campsite fees paid by employer). Camping location will change frequently as the crew moves to different study areas.
 
 ## Work schedule
 

@@ -54,11 +54,11 @@ This position will support two projects:
 - Aid in developing methods for annotating key understory objects (e.g., trees, logs, shrubs) in drone and ground-based imagery for computer vision model training, train and supervise others in performing this task, and perform some of this work directly
 - Aid in hiring and training field crew members
 - As time and interest permit, assist in pre-season reconnaissance of potential field sites to assess site suitability and access logistics
-- As time, skills, and interest permit, improve upon Open Forest Observatory data processing workflows, create and expand user-friendly documentation of workflow and datasets, and develop example workflows and tutorials.
+- As time, skills, and interest permit, improve upon Open Forest Observatory data processing workflows, create and expand user-friendly documentation of workflows and datasets, and develop example workflows and tutorials.
 
 ## Work location & camping
 
-The duty station will be Davis, CA (UC Davis).
+The duty station is Davis, CA (UC Davis).
 
 ## Work schedule
 
