@@ -40,7 +40,7 @@ The Drone Pilot & Field Crew Leader will support FOCAL by piloting a
 quadcopter drone and leading a 2- to 3-member ground-based field crew in collecting data across
 California forests. The work will support two projects:
 
-1. An expansion of the [Open Forest Observatory](openforestobservatory.org) project, which is
+1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project, which is
   automating forest inventory by combining over-canopy drone-based
   reconstructions with under-canopy 360-degree (GoPro) imagery to better capture understory
   trees, shrubs, and logs. This project involves drone and ground imagery collection and
