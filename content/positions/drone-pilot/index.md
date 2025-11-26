@@ -30,13 +30,13 @@ May 20 or 27 through September 14, 2026
 
 ## Location
 
-- 80%: remote field sites across in forests across California (Duty station: UC Davis, Davis, CA)
+- 80%: remote field sites in conifer forests across California (Duty station: UC Davis, Davis, CA)
 - 20%: office (computer lab) at UC Davis (with the option for some but not all work to be
   performed remotely)
 
 ## Purpose
 
-The Drone Pilot & Field Crew Leader will support the Forest Change Analysis Lab by piloting a
+The Drone Pilot & Field Crew Leader will support FOCAL by piloting a
 quadcopter drone and leading a 2- to 3-member ground-based field crew in collecting data across
 California forests. The work will support two projects:
 
@@ -50,7 +50,7 @@ California forests. The work will support two projects:
   southern, central, and northern California. This project involves drone flights only, no
   ground-based imagery or manual inventory.
 
-This position may be combined with the [Extension: Field Logistics & Data Manager](extension-field-logistics-and-data-manager) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
+This position may be combined with the [Extension: Field Logistics & Data Manager](/positions/extension-field-logistics-and-data-manager) position and/or [Extension: Data Scientist](/positions/data-scientist) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
 
 ## Job description
 

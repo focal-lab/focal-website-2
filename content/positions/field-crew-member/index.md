@@ -38,7 +38,7 @@ May 20 (or 27) through July 31, with potential for extension by several weeks to
 
 The Field Crew Member will support the Forest Change Analysis Lab in collecting vegetation data from forests in central and northern California. The work will support an expansion of the [Open Forest Observatory](openforestobservatory.org) project, which is automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (GoPro) imagery to better capture understory trees, shrubs, and logs. This project involves drone and ground imagery collection and ground-based vegetation inventory to support development and validation of automated inventory methods. A professional Drone Pilot & Crew Leader (separate position) will pilot drone and lead ground-based fieldwork.
 
-This position may be combined with the [Extension: Field Logistics & Data Manager](extension-field-logistics-and-data-manager) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
+This position may be combined with the [Extension: Field Logistics & Data Manager](/positions/extension-field-logistics-and-data-manager) position and/or [Extension: Data Scientist](/positions/data-scientist) position for interested applicants with the necessary additional qualifications. This would extend the employment period and responsibilities.
 
 ## Job description
 
