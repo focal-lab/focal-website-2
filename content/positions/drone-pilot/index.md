@@ -2,7 +2,7 @@
 title: "Forest Ecology Field Crew Member"
 summary:
 
-draft: true
+draft: false
 
 date: 2022-06-01
 show_date: false
