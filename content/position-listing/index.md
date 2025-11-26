@@ -26,25 +26,27 @@ We are hiring for multiple field positions, with the potential for extension int
 
 ### Forest Ecology Drone Pilot & Field Crew Leader
 
-Description
+The Drone Pilot & Field Crew Leader will support the Forest Change Analysis Lab by piloting a
+quadcopter drone and leading a 2- to 3-member ground-based field crew in collecting data across
+California forests. Target start date: May 20, 2026.
 
 - [Position details & application](/positions/drone-pilot/)
 
 ### Field Crew Member
 
-Description
+The Field Crew Member will support the Forest Change Analysis Lab in collecting vegetation data and ground-based imagery from forests in central and northern California. Target start date: May 20, 2026.
 
 - [Position details & application](/positions/field-crew-member/)
 
 ### Extension: Field Logistics & Data Manager
 
-Description
+For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](/positions/drone-pilot) position or the [Field Crew Member](/positions/field-crew-member) position. The position will provide field logistics support prior to and during the field season, aid in developing data collection protocols, and assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data). Target start date: March or April 2026.
 
 - [Position details & application](/positions/extension-field-logistics-and-data-manager/)
 
 ### Extension: Data Scientist
 
-Description
+For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](/positions/drone-pilot) position or the [Field Crew Member](/positions/field-crew-member) position. This position will perform software development and/or data science experiments to support development of automated forest inventory and monitoring methods using multi-source remote sensing data. Target start date: February to April 2026.
 
 - [Position details & application](/positions/extension-data-scientist/)
 

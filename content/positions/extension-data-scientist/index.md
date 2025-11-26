@@ -35,7 +35,7 @@ This position would extend the [Drone Pilot & Field Crew Leader](drone-pilot) po
 
 ## Purpose
 
-This position will support two projects:
+This position will perform software development and/or data science experiments to support two projects:
 
 1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project ("Open Forest Observatory 2.0") that is developing methods for automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory trees, shrubs, and logs. This project involves development of computer vision models, 3D reconstruction methods, and data integration workflows.
 
