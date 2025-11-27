@@ -3,7 +3,7 @@ title: Automated understory fuel inventory
 authors:
   - David Russell
   - Amritha Pallavoor
-summary: "Developing methods to process 360-degree ground imagery into understory vegetation and fuels inventories"
+summary: "360-degree ground imagery for automated understory vegetation and fuel inventory"
 
 date: 2022-01-01
 show_date: false
