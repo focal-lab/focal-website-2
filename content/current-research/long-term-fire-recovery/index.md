@@ -14,10 +14,6 @@ image:
   preview_only: true
   # caption: Automatically detected treetops, with point size indicating tree height, overlaid on drone-derived orthoimagery from the Tahoe National Forest
 
-banner:
-  caption: "Emerald Point, Lake Tahoe, USA"
-  image: "tahoe2.jpg"
-
 ---
 
 Extensive work in California has documented the factors influencing forest recovery patterns 5-10 years post-fire, often showing near-complete regeneration failure in the interiors of high-severity patches. However, far less work has explored the potential for forests to recover in such areas over the following decades. We are addressing this gap by developing a computer vision model to detect forest regeneration in all 10- to 40-year-old fire footprints across the state using imagery from the USDA National Agriculture Imagery Program (NAIP). To train and validate these models, we are performing ground-based surveys and collecting drone imagery from fires stratified across geographic space, fire age, and environmental conditions.

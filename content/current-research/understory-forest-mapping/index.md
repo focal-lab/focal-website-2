@@ -14,10 +14,6 @@ image:
   preview_only: true
   # caption: Automatically detected treetops, with point size indicating tree height, overlaid on drone-derived orthoimagery from the Tahoe National Forest
 
-banner:
-  caption: "Emerald Point, Lake Tahoe, USA"
-  image: "tahoe2.jpg"
-
 ---
 
 Our automated mapping work supports the [<i class="fas fa-arrow-up-right-from-square"></i> Open Forest Observatory](http://openforestobservatory.org).
