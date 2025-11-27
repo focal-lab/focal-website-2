@@ -101,6 +101,6 @@ Review of applications will begin on December 15, 2025 and continue until the po
 
 ## To apply
 
-Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/J4hAZ8XRTomq5qDEA). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
+Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/2Ne5v6bbyZyehBFk9). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
 
 <br>
