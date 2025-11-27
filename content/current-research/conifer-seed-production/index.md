@@ -1,4 +1,6 @@
 ---
+draft: true
+
 title: Post-fire conifer seed production
 authors:
   - Nina Venuti
