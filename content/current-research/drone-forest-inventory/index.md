@@ -5,7 +5,7 @@ authors:
   - Amritha Pallavoor
 summary: "Developing methods to map forests at the individual tree level using drones, photogrammetry, and computer vision"
 
-date: 2022-01-01
+date: 2025-01-01
 show_date: false
 profile: true
 image:

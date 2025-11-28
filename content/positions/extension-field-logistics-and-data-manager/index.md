@@ -84,7 +84,7 @@ The pre- and post-field season work schedule will generally consist of 5 8-hour 
 
 ## Application due date
 
-Review of applications will begin on December 15, 2026 and continue until the position is filled.
+Review of applications will begin on December 22, 2026 and continue until the position is filled.
 
 ## To apply
 

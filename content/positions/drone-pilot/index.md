@@ -138,7 +138,7 @@ The incumbent must be in very good physical condition. Field conditions will oft
 
 ## Application due date
 
-Review of applications will begin on December 15, 2025 and continue until the position is filled.
+Review of applications will begin on December 22, 2025 and continue until the position is filled.
 
 ## To apply
 
