@@ -4,7 +4,7 @@ authors:
   - Tessa Putz
   - admin
 summary: "Understanding the early (1-2 years post-fire) drivers of conifer regeneration in high-severity burn patches"
-date: 2021-01-01
+date: 2021-01-10
 show_date: false
 profile: true
 image:

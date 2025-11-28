@@ -6,7 +6,7 @@ authors:
   - Amritha Pallavoor
 summary: "Using aerial imagery and computer vision to quantify forest recovery 10-40 years post-fire across California"
 
-date: 2022-01-03
+date: 2022-01-01
 show_date: false
 profile: true
 image:
