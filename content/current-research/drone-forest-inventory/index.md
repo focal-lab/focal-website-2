@@ -1,6 +1,7 @@
 ---
 title: Drone-based forest mapping
 authors:
+  - admin
   - David Russell
   - Amritha Pallavoor
 summary: "Developing methods to map forests at the individual tree level using drones, photogrammetry, and computer vision"

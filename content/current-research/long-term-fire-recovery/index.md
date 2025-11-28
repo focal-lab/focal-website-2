@@ -23,22 +23,4 @@ Our model will map forest regeneration success or failure statewide, a dataset w
 
 ## Funding and support
 
-UPDATE FUNDING
-
-<div class="container text-center align-content-middle">
-  <div class="row">
-    <div class="col-sm">
-{{< figure src="cal_fire_logo_small.png" width="120px" >}}
-    </div>
-    <div class="col-sm">
-{{< figure src="cci_logo_small.png" width="200px" >}}
-    </div>
-    <div class="col-sm">
-{{< figure src="NSF_4-Color_bitmap_Logo.png" width="200px" >}}
-    </div>
-    <div class="col-sm">
-{{< figure src="the-nature-conservancy-vector-logo.png" width="200px" >}}
-    </div>
-  </div>
-
-</div>
+California Air Resources Board (CARB)
