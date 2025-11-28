@@ -6,7 +6,7 @@ authors:
   - Amritha Pallavoor
 summary: "Using 360-degree ground imagery for automated understory vegetation and fuel inventory"
 
-date: 2022-01-01
+date: 2022-01-02
 show_date: false
 profile: true
 image:
