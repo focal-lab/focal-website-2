@@ -11,7 +11,7 @@ show_date: false
 profile: true
 image:
   focal_point: ''
-  preview_only: true
+  preview_only: false
   # caption: Automatically detected treetops, with point size indicating tree height, overlaid on drone-derived orthoimagery from the Tahoe National Forest
 
 ---
