@@ -13,7 +13,7 @@ image:
 banner:
   image: "tahoe2.jpg"
 
-draft: false
+draft: true
 ---
 
 ## Overview

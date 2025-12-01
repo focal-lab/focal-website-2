@@ -1,5 +1,5 @@
 ---
-title: Fine-scale fire severity patterns
+title: Mapping post-fire surviving trees
 authors:
   - Saba Saberi
 summary: "Using high-resolution satellite imagery and plot data to build tools for rapid mapping of surviving trees following fire"
@@ -16,4 +16,4 @@ Wildfires in western U.S. dry forests are increasingly burning large areas at hi
 
 Trees that initially survive the fire – but that sustained injuries – may ultimately die in the following years, with implications for their value as seed sources. The presence of drought before and/or after fire may affect the prevalence of fire refugia and delayed mortality.
 
-We have developed models that use higher-resolution imagery data sources (e.g. Sentinel-2) to understand the prevalence and spectral signatures of small fire refugia and have [published this work] NEED LINK. The work, which focused on recent large wildfires in California, also involved tailored collection of ground-based reference data for calibration and validation of the remote sensing algorithms. We are now using these methods to quantify the extent of *delayed mortality* over five years following fire, as well as the potential for trees that appear dead initially to green back up. In addition to addressing ecological questions related to fire mortality and seed source availability, the work is helping to refine best-practices in use of satellite imagery for characterizing fire severity and post-fire conditions.
+We have developed models that use higher-resolution imagery data sources (e.g. Sentinel-2) to understand the prevalence and spectral signatures of small fire refugia and have [published this work](https://iopscience.iop.org/article/10.1088/2752-664X/add5fd/meta). The work, which focused on recent large wildfires in California, also involved tailored collection of ground-based reference data for calibration and validation of the remote sensing algorithms. We are now using these methods to quantify the extent of *delayed mortality* over five years following fire, as well as the potential for trees that appear dead initially to green back up. In addition to addressing ecological questions related to fire mortality and seed source availability, the work is helping to refine best-practices in use of satellite imagery for characterizing fire severity and post-fire conditions.
