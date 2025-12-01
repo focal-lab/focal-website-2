@@ -1,11 +1,10 @@
 ---
 title: Early post-fire regeneration
 authors:
-  - Nina Venuti
-  - Mackenzie Field
-  - Kees Hood
-summary: "Using drone and field data to understand how well post-fire regeneration is explained by very early (1-2 years post-fire) canopy conditions"
-date: 2021-01-01
+  - Tessa Putz
+  - admin
+summary: "Understanding the early (1-2 years post-fire) drivers of conifer regeneration in high-severity burn patches"
+date: 2021-01-10
 show_date: false
 profile: true
 image:
@@ -15,9 +14,9 @@ image:
 
 ---
 
-We are conducting extensive field plot surveys to quantify conifer regeneration density and its relationship to overstory stand conditions (e.g., needle scorch vs. torch) in high-severity burn patches in the large 2020 and 2021 California wildfires. We are supplementing the field-based characterization of overstory conditions with drone-based imagery of the same plots.
+We have conducted extensive repeat field surveys from one to five years post-fire to quantify conifer regeneration density and its relationship to overstory stand conditions (e.g., needle scorch vs. torch) in high-severity burn patches in the large 2020 and 2021 California wildfires. We are supplementing the field-based characterization of overstory conditions with drone-based imagery of the same plots.
 
-We are finding surprisingly strong conifer establishment in high-severity patches with no surviving green trees (seed sources) nearby, suggesting that given the right seasonality of fire, non-serotinous species can store viable seed in the canopy ("aerial seed banking") and release it following fire, even if the trees are killed by fire. We are quantifying the extent of this phenomenon and the degree to which it can be predicted by fire intensity (as indicated by the extent of needle scorch vs. torch in the overstory).
+We have found surprisingly strong conifer establishment in high-severity patches with no surviving green trees (seed sources) nearby, suggesting that given the right seasonality of fire, non-serotinous species can store viable seed in the canopy and release it following fire, even if the trees are killed by fire. We have quantified the extent of this phenomenon and the degree to which it can be predicted by fire intensity (indicated by the extent of needle scorch vs. torch in the overstory). We have [published the initial results](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70142) of this study.
 
 In addition to assessing the prevalence of canopy seed banking, we are evaluating whether other phenomena that are only observable very soon after fire (including shading from retained scorched needles, litter from dropped scorched needles, and delayed mortality of trees that initially survived the fire) can help explain some of the variation in post-fire regeneration that cannot be explained by traditional plot surveys performed 5+ years following fire.
 

@@ -1,13 +1,12 @@
 ---
-title: "Position extension: Field logistics & data manager"
+title: "Position extension: Field Logistics & Data Manager"
 summary:
 
-draft: true
+draft: false
 
 date: 2022-06-01
 show_date: false
 profile: false
-draft: true
 image:
   focal_point: ''
   preview_only: true
@@ -19,7 +18,7 @@ banner:
 
 ## Summary
 
-For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position (LINKSSSSSSS). The position will provide field logistics support prior to and during the field season by coordinating site access permissions and schedules with site managers/landowners; preparing field protocols, gear, and datasheets; and related tasks. The position will also assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data) and organization and quality-checking of incoming field data during the field season. The position may include some limited pre-season field site reconnaissance.
+For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](positions/drone-pilot) position or the [Field Crew Member](positions/field-crew-member) position. The position will provide field logistics support prior to and during the field season by coordinating site access permissions and schedules with site managers/landowners; preparing field protocols, gear, and datasheets; and related tasks. The position will also assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data) and organization and quality-checking of incoming field data during the field season. The position may include some limited pre-season field site reconnaissance.
 
 ## Compensation
 
@@ -27,7 +26,7 @@ Approximately $26-29/hour, depending on qualifications and UC Davis HR assessmen
 
 ## Employment period
 
-This position would extend the [Drone Pilot & Field Crew Leader](drone-pilot) position or the [Field Crew Member](field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
+This position would extend the [Drone Pilot & Field Crew Leader](positions/drone-pilot) position or the [Field Crew Member](positions/field-crew-member) position by approximately 1-3 months, beginning 1-2 months earlier and ending up to 1 month later. These durations may be extended if the candidate elects to work part-time (commitment of 50-100% time is possible).
 
 ## Location
 
@@ -55,11 +54,11 @@ This position will support two projects:
 - Aid in developing methods for annotating key understory objects (e.g., trees, logs, shrubs) in drone and ground-based imagery for computer vision model training, train and supervise others in performing this task, and perform some of this work directly
 - Aid in hiring and training field crew members
 - As time and interest permit, assist in pre-season reconnaissance of potential field sites to assess site suitability and access logistics
-- As time, skills, and interest permit, improve upon Open Forest Observatory data processing workflows, create and expand user-friendly documentation of workflow and datasets, and develop example workflows and tutorials.
+- As time, skills, and interest permit, improve upon Open Forest Observatory data processing workflows, create and expand user-friendly documentation of workflows and datasets, and develop example workflows and tutorials.
 
 ## Work location & camping
 
-The duty station will be Davis, CA (UC Davis).
+The duty station is Davis, CA (UC Davis).
 
 ## Work schedule
 
@@ -85,10 +84,10 @@ The pre- and post-field season work schedule will generally consist of 5 8-hour 
 
 ## Application due date
 
-Review of applications will begin on December 15, 2026 and continue until the position is filled.
+Review of applications will begin on December 22, 2026 and continue until the position is filled.
 
 ## To apply
 
-Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/J4hAZ8XRTomq5qDEA). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
+Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/2Ne5v6bbyZyehBFk9). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
 
 <br>

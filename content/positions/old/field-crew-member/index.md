@@ -12,7 +12,7 @@ image:
 banner:
   image: "eiler.JPG"
 
-draft: false
+draft: true
 ---
 
 <!-- <div align="center">

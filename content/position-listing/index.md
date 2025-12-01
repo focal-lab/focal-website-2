@@ -18,37 +18,37 @@ banner:
 
 ## 2026 field & data science positions
 
-We are hiring for multiple field positions, with the potential for extension into roles that include data science and/or field logistics management. These positions will primarily support two new projects:
+We are hiring for several field positions, with the potential for extension into roles that include data science and/or field logistics management. These positions will primarily support two new projects:
 
-1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project ("Open Forest Observatory 2.0") that is developing methods for automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory trees, shrubs, and logs. This project involves development of computer vision models, 3D reconstruction methods, and data integration workflows.
+1. An expansion of the [Open Forest Observatory](http://openforestobservatory.org) project that is automating forest inventory by combining over-canopy drone-based reconstructions with under-canopy 360-degree (e.g. GoPro) imagery to better capture understory trees, shrubs, and logs.
 
-2. A study of forest recovery 10-40 years post-wildfire ("Delayed Forest Reestablishment") that will use drone and NAIP imagery to train and validate a computer vision model for mapping trees establishing following decades-old fires across southern, central, and northern California. This project involves computer vision model development, multi-source imagery co-registration, and accuracy assessment workflows.
+2. A study of forest recovery 10-40 years post-wildfire that will use drone and NAIP imagery, combined with computer vision models, to map post-fire forest recovery across southern, central, and northern California.
 
 ### Forest Ecology Drone Pilot & Field Crew Leader
 
-The Drone Pilot & Field Crew Leader will support the Forest Change Analysis Lab by piloting a
-quadcopter drone and leading a 2- to 3-member ground-based field crew in collecting data across
+The Drone Pilot & Field Crew Leader will pilot a
+quadcopter drone and lead a 2- to 3-member ground-based field crew in collecting data across
 California forests. Target start date: May 20, 2026.
 
-- [Position details & application](/positions/drone-pilot/)
+- [Position details](/positions/drone-pilot/)
 
-### Field Crew Member
+### Forest Ecology Field Crew Member
 
-The Field Crew Member will support the Forest Change Analysis Lab in collecting vegetation data and ground-based imagery from forests in central and northern California. Target start date: May 20, 2026.
+The Field Crew Member will collect vegetation data and ground-based imagery from forests in central and northern California. Target start date: May 20, 2026.
 
-- [Position details & application](/positions/field-crew-member/)
+- [Position details](/positions/field-crew-member/)
 
 ### Extension: Field Logistics & Data Manager
 
 For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](/positions/drone-pilot) position or the [Field Crew Member](/positions/field-crew-member) position. The position will provide field logistics support prior to and during the field season, aid in developing data collection protocols, and assist with management of existing and new lab data, including standardization of forest inventory data for inclusion in the [Open Forest Observatory database](https://openforestobservatory.org/data). Target start date: March or April 2026.
 
-- [Position details & application](/positions/extension-field-logistics-and-data-manager/)
+- [Position details](/positions/extension-field-logistics-and-data-manager/)
 
 ### Extension: Data Scientist
 
 For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](/positions/drone-pilot) position or the [Field Crew Member](/positions/field-crew-member) position. This position will perform software development and/or data science experiments to support development of automated forest inventory and monitoring methods using multi-source remote sensing data. Target start date: February to April 2026.
 
-- [Position details & application](/positions/extension-data-scientist/)
+- [Position details](/positions/extension-data-scientist/)
 
 
 
@@ -68,7 +68,7 @@ For interested applicants with the necessary **additional qualifications**, this
 
 <!--- ## Grad students --->
 
-## Undergrad student field positions
+## UCD undergrad student field positions
 
 <!-- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
@@ -77,7 +77,7 @@ For interested applicants with the necessary **additional qualifications**, this
 <!-- - [Cloud-Based Data Infrastructure Engineering Intern (UC Student)](/positions/data-infrastructure-engineering-intern/) -->
 <!-- - We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background. -->
 
-Check back in early 2026 for a summer 2026 undergrad forest ecology field position!
+Check back in early 2026 for a summer 2026 UCD undergrad forest ecology field position!
 
 &nbsp;
 &nbsp;

@@ -16,7 +16,7 @@ image:
 banner:
   image: tahoe2.JPG
 
-draft: false
+draft: true
 ---
 
 ## Employment period

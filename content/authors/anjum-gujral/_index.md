@@ -14,7 +14,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Population Biology Graduate Group"
+  - name: "Population Biology Graduate Group"
 
 interests:
 

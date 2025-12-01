@@ -10,7 +10,7 @@ last_name: Purvis
 superuser: false
 
 # Role/position
-role: Ph.D. Student, Field & Data Manager
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
