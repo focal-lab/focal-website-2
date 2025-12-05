@@ -97,7 +97,7 @@ Review of applications will begin on December 22, 2026 and continue until the po
 
 ## To apply
 
-Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/2Ne5v6bbyZyehBFk9). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
+Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, unofficial transcripts from any completed (within last 3 years) and in-progress degree programs, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/2Ne5v6bbyZyehBFk9). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
 
 Please note: for applicants with a Bachelor's or Master's degree and the relevant qualifications who are interested in BOTH the data science and field logistics position extensions, combined into a full one-year position, there is an [alternative application portal](https://recruit.ucdavis.edu/JPF07404) that includes drone piloting, crew leadership, field logistics and management, and data science work. Given the long HR timeline for this alternative position, interested applicants should **also** apply at the alternative position posting by December 22. This alternative application is not required for candidates with a Ph.D., as the HR timeline for Ph.D. hiring is generally faster.
 
