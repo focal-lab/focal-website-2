@@ -93,7 +93,7 @@ The work schedule will generally consist of a normal Monday-Friday workweek, wit
 
 ## Application due date
 
-Review of applications will begin on December 22, 2026 and continue until the position is filled.
+Review of applications will begin on December 22, 2025 and continue until the position is filled.
 
 ## To apply
 

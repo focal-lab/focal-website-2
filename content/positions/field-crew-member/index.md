@@ -97,7 +97,7 @@ Crew members must be in very good physical condition. Field conditions will ofte
 
 ## Application due date
 
-Review of applications will begin on December 12, 2025 and continue until the position is filled.
+Review of applications will begin on December 22, 2025 and continue until the position is filled.
 
 ## To apply
 
