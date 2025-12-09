@@ -76,7 +76,7 @@ The work schedule will generally consist of a normal Monday-Friday workweek, wit
 
 - Bachelor's degree, Master's degree, or Ph.D. in computer science, data science, ecology, environmental science, forestry, geographic information science, robotics, or a related field
 - Experience using Python for software development and/or data science, including collaboration using version control tools such as Git and GitHub
-- Experience collecting and/or analyzing drone-derived imagery of vegetation
+- Experience collecting and/or analyzing aerial imagery of vegetation
 - Experience with scripted geospatial data processing and analysis
 - Excellent organizational skills for data management and project coordination
 - Attention to detail
@@ -85,7 +85,7 @@ The work schedule will generally consist of a normal Monday-Friday workweek, wit
 
 ## Desired qualifications
 
-- Experience training and performing inference using machine artificial neural networks, including computer vision models
+- Experience training and performing inference using artificial neural networks, including computer vision models
 - Experience developing geospatial data processing or data science workflows/software professionally, outside academia
 - Understanding of and experience training and/or deploying computer vision models such as convolutional neural networks, vision transformers, and neural radiance fields
 - Experience processing and analyzing 3D geospatial data, including photogrammetry workflows, point cloud processing, and/or multi-source data integration (e.g., drone imagery, satellite imagery, and ground-based measurements)
