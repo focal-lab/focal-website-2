@@ -124,4 +124,4 @@ Review of applications will begin on January 27, 2025. Apply by this date for fu
 Please submit a cover letter (including your interest in the position and relevant experience), CV/resume, and contact information for 2-3 references (including name,
 organization, email, and relationship to you) using [this Google
 form](https://forms.gle/NyUFPgEbECxtMnx97). For
-questions about the position, contact Derek Young, djyoung@udavis.edu.
+questions about the position, contact Derek Young, djyoung@ucdavis.edu.
