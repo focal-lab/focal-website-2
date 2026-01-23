@@ -16,6 +16,8 @@ banner:
 
 ---
 
+<!-- 
+
 ## 2026 field & data science positions
 
 We are hiring for several field positions, with the potential for extension into roles that include data science and/or field logistics management. These positions will primarily support two new projects:
@@ -49,7 +51,7 @@ For interested applicants with the necessary **additional qualifications**, this
 For interested applicants with the necessary **additional qualifications**, this position serves as an **extension** to the [Drone Pilot & Field Crew Leader](/positions/drone-pilot) position or the [Field Crew Member](/positions/field-crew-member) position. This position will perform software development and/or data science experiments to support development of automated forest inventory and monitoring methods using multi-source remote sensing data. Target start date: February to April 2026.
 
 - [Position details](/positions/extension-data-scientist/)
-
+-->
 
 
 
@@ -68,6 +70,8 @@ For interested applicants with the necessary **additional qualifications**, this
 
 <!--- ## Grad students --->
 
+We have no non-student positions open at this time. Check back again soon!
+
 ## UCD undergrad student field positions
 
 <!-- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
@@ -77,7 +81,7 @@ For interested applicants with the necessary **additional qualifications**, this
 <!-- - [Cloud-Based Data Infrastructure Engineering Intern (UC Student)](/positions/data-infrastructure-engineering-intern/) -->
 <!-- - We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background. -->
 
-Check back in early 2026 for a summer 2026 UCD undergrad forest ecology field position!
+Check back in early February 2026 for a summer 2026 UCD undergrad forest ecology field position!
 
 &nbsp;
 &nbsp;

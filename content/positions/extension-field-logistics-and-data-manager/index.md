@@ -2,7 +2,7 @@
 title: "Position extension: Field Logistics & Data Manager"
 summary:
 
-draft: false
+draft: true
 
 date: 2022-06-01
 show_date: false

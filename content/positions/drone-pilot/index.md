@@ -2,7 +2,7 @@
 title: "Forest Ecology Drone Pilot & Field Crew Leader"
 summary:
 
-draft: false
+draft: true
 
 date: 2022-06-01
 show_date: false
