@@ -22,7 +22,7 @@ University of California, Davis ([Forest Change Analysis Lab](https://focal-lab.
 
 ## Compensation
 
-Approximately $18/hour
+Approximately $18.50/hour
 
 ## Eligible applicants
 
