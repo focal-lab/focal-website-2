@@ -81,7 +81,7 @@ We have no non-student positions open at this time. Check back again soon!
 <!-- - [Cloud-Based Data Infrastructure Engineering Intern (UC Student)](/positions/data-infrastructure-engineering-intern/) -->
 <!-- - We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background. -->
 
-Check back in early February 2026 for a summer 2026 UCD undergrad forest ecology field position!
+[Summer forest ecology field crew member & drone pilot assistant (UCD student)](/positions/field-crew-member-undergrad/)
 
 &nbsp;
 &nbsp;
