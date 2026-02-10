@@ -2,7 +2,7 @@
 title: "Forest Ecology Field Crew Member & Drone Pilot Assistant"
 summary:
 
-draft: true
+draft: false
 
 date: 2026-02-09
 show_date: false
