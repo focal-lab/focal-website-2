@@ -18,7 +18,7 @@ banner:
 
 ## Employer
 
-University of California, Davis ([Forest Change Analysis Lab](focal-lab.org), Department of Plant Sciences)
+University of California, Davis ([Forest Change Analysis Lab](https://focal-lab.org), Department of Plant Sciences)
 
 ## Compensation
 
