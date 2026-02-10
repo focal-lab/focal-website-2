@@ -69,7 +69,7 @@ Due to the remoteness of the field sites, the crew member should expect to spend
 days in the field at a time (see *Work schedule*, below) with frequent relocations of camp (included in work
 hours) during each field hitch.
 
-This position provides an opportunity to gain **on-the-job training in professional drone piloting** for research applications. If the applicant is interested in and willing to study for and obtain their FAA Part 107 Remote Pilot Certification during spring quarter, the applicant will have the opportunity to pilot some of the summer drone flights, and may be assigned lead pilot duties for periods when the professional drone pilot is unavailable. Studying for and taking the FAA exam is an estimated 40-hour commitment spread throughout the quarter, and up to 20 hours of the time will be paid work hours. The exam registraion fee will also be paid. Applicants wishing to pursue this option will be given priority.
+This position provides an opportunity to gain **on-the-job training in professional drone piloting** for research applications. If the applicant is interested in and willing to study for and obtain their FAA Part 107 Remote Pilot Certification during spring quarter, the applicant will have the opportunity to pilot some of the summer drone flights, and may be assigned lead pilot duties for periods when the professional drone pilot is unavailable. Studying for and taking the FAA exam is an estimated 40-hour commitment spread throughout the quarter, and up to 20 hours of the time will be paid work hours. The exam registraion fee will also be paid.
 
 ## Work location & camping
 
@@ -77,7 +77,7 @@ The duty station is Davis, CA (UC Davis). Field hitches will begin and end at UC
 
 ## Work schedule
 
-The default work schedule will generally consist of 8 10-hour days, followed by 6 days off (80 work hours every 2 weeks), beginning and ending on Wednesdays. The 8-day periods will likely include 1-3 days of office work, usually the last of the 8 days, to document the previous field period and prepare for the next. Some but not all of this office work may be performed remotely. Travel between Davis and the field sites, and between field sites, is included in work hours. The 1-3 office days (10-30 hours) may be spread over more shorter work days if practical and preferred. The incumbent is expected to coordinate schedules with fellow crew members and the crew leader to achieve the greatest efficiency.
+The default work schedule will generally consist of 8 10-hour days, followed by 6 days off (80 work hours every 2 weeks), beginning and ending on Wednesdays. The 8-day periods will likely include 1-3 days of office work, usually the last of the 8 days, to document the previous field period and prepare for the next. Some but not all of this office work may be performed remotely. Travel between Davis and the field sites, and between field sites, is included in work hours. The 1-3 office days (10-30 hours) every two weeks may be spread over more shorter work days if practical and preferred. The incumbent is expected to coordinate schedules with fellow crew member and the crew leader to achieve the greatest efficiency.
 
 During fire season, smoke and fire hazards may necessitate rapid adjustments to work location or schedule (e.g., shifting departure and/or return dates to avoid hazardous fire weather conditions). In the event of extended periods of fire or smoke hazards, the position supervisor will work to identify alternative work locations that avoid hazards, but during peak fire season, continuous full-time employment cannot be guaranteed.
 
@@ -91,7 +91,7 @@ All necessary field equipment will be provided. Communal camping gear (e.g., wat
 
 ## Training
 
-Training in field methods, equipment, and safety will be provided. Valid wilderness first aid (or more advanced) certification, or willingness to complete training prior to the start of the field season, is required (registration costs will be covered by the employer).
+Training in field methods, equipment, and safety will be provided. Valid Wilderness First Aid (or more advanced) certification, or willingness to complete training prior to the start of the field season, is required (registration costs will be covered by the employer).
 
 ## Work conditions/physical demands
 
