@@ -69,7 +69,7 @@ Due to the remoteness of the field sites, the crew member should expect to spend
 days in the field at a time (see *Work schedule*, below) with frequent relocations of camp (included in work
 hours) during each field hitch.
 
-This position provides an opportunity to gain **on-the-job training in professional drone piloting** for research applications. If the applicant is interested in and willing to study for and obtain their FAA Part 107 Remote Pilot Certification during spring quarter, the applicant will have the opportunity to pilot some of the summer drone flights, and may be assigned lead pilot duties for periods when the professional drone pilot is unavailable. Studying for and taking the FAA exam is an estimated 40-hour commitment spread throughout the quarter, and up to 20 hours of the time will be paid work hours. The exam registraion fee will also be paid.
+This position provides an opportunity to gain **on-the-job training in professional drone piloting** for research applications. If the applicant is interested in and willing to study for and obtain their FAA Part 107 Remote Pilot Certification during spring quarter, the applicant will have the opportunity to pilot some of the summer drone flights, and may be assigned lead pilot duties for periods when the professional drone pilot is unavailable. Studying for and taking the FAA exam is an estimated 40-hour commitment spread throughout the quarter, and up to 20 hours of the time will be paid work hours. The exam registraion fee will also be paid. The supervisor is availalbe to review any challenging FAA exam material prior to the exam and will provide free access to an online training course.
 
 ## Work location & camping
 
