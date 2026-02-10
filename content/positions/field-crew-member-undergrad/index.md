@@ -26,12 +26,12 @@ Approximately $18/hour
 
 ## Eligible applicants
 
-Current UC Davis students with a graduation in spring 2026 or later (also see minimum qualifications, below)
+Current UC Davis students with a graduation in Spring 2026 or later (also see minimum qualifications, below)
 
 
 ## Employment period
 
-June 17 to September 16 for fieldwork (full time), optionally continuing into fall quarter for data interpretation in the office (part time). Optional pre-season work to obtain a FAA Remote Pilot Certificate, if desired, may begin this spring quarter 2026 (see Job Description, below).
+June 17 to September 16 for fieldwork (full time), optionally continuing into Fall Quarter for data interpretation in the office (part time). Optional pre-season work to obtain a FAA Remote Pilot Certificate, if desired, may begin this Spring Quarter 2026 (see Job Description, below).
 
 ## Location
 
