@@ -76,7 +76,7 @@ For interested applicants with the necessary **additional qualifications**, this
 
 - We anticipate potentially recruiting a forest imaging data scientist by May 2027. If you are interested in being notified if/when a position is announced, [contact us](/#contact).
 
-## UCD undergrad student field positions
+## UCD undergrad student positions
 
 <!-- - [Drone-based ecology traineeship](/positions/drone-ecology-traineeship) --->
 <!---- - [Forest Ecology Field Crew Leader (UC student)](/positions/field-crew-leader-ucstudent/) --->
