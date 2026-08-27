@@ -68,9 +68,13 @@ For interested applicants with the necessary **additional qualifications**, this
 <!--- - [Forest Ecology Field Crew Member (UC student)](/positions/field-crew-member/) --->
 <!---- - [Forest Ecology Drone Pilot Assistant](/positions/drone-assistant/) --->
 
-<!--- ## Grad students --->
+## Grad students
 
-We have no non-student positions open at this time. Check back again soon!
+- We are not currently recruiting graduate students.
+
+## Data scientist positions
+
+- We anticipate potentially recruiting a forest imaging data scientist by May 2027. If you are interested in being notified if/when a position is announced, [contact us](/#contact).
 
 ## UCD undergrad student field positions
 
@@ -79,9 +83,10 @@ We have no non-student positions open at this time. Check back again soon!
 <!-- - [Summer forest ecology field crew member (UC student)](/positions/field-crew-member/) - -->
 <!-- - [Open-Source Software Engineering Intern (UC Student)](/positions/software-engineering-intern/) -->
 <!-- - [Cloud-Based Data Infrastructure Engineering Intern (UC Student)](/positions/data-infrastructure-engineering-intern/) -->
-<!-- - We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background. -->
 
-[Summer forest ecology field crew member & drone pilot assistant (UCD student)](/positions/field-crew-member-undergrad/)
+- We are often looking for UC Davis undergrads to join in our research! If you're interested, [contact us](/#contact) and mention the projects you're interested in and your relevant background.
+
+<!-- [Summer forest ecology field crew member & drone pilot assistant (UCD student)](/positions/field-crew-member-undergrad/) -->
 
 &nbsp;
 &nbsp;
